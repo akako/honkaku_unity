@@ -3,5 +3,5 @@ http://gihyo.jp/book/2020/978-4-297-10973-8
   
 なお、書籍 P.5 のサポートページURLに間違いがありました。  
 サポートページ閲覧の際は、下記URLを参照してください。  
-誤: https://gihyo.jp/book/2019/978-4-297-10681-2/support  
+誤: https\://gihyo.jp/book/2019/978-4-297-10681-2/support  
 正: https://gihyo.jp/book/2020/978-4-297-10973-8/support  
